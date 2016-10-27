@@ -1,0 +1,8 @@
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\obj\Debug\CheckOutServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\bin\Debug\CheckOutServiceTest.dll
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\bin\Debug\CheckOutServiceTest.pdb
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\bin\Debug\CheckOutService.exe
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\bin\Debug\CheckOutService.pdb
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\obj\Debug\CheckOutServiceTest.dll
+C:\Users\Obaro\Desktop\checkoutservices\CheckOutService\CheckOutServiceTest\obj\Debug\CheckOutServiceTest.pdb
